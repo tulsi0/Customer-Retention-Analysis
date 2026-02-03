@@ -109,3 +109,12 @@ Wholesale customers represent a smaller segment but contribute **~70% of total r
 
 ## 📁 Project Structure
 
+customer-retention-analysis/
+│
+├── data/
+│ └── online_retail_II.csv
+├── notebooks/
+│ └── cohort_analysis.ipynb
+├── outputs/
+│ └── retention_heatmap.png
+└── README.md
